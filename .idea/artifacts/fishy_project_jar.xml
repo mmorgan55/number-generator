@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="fishy-project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fishy_project_jar</output-path>
+    <root id="archive" name="fishy-project.jar">
+      <element id="module-output" name="fishy-project" />
+    </root>
+  </artifact>
+</component>
